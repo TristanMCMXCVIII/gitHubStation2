@@ -1,3 +1,5 @@
 Fichier à destination du cloud 
 
 Un 2e push sur le cloud
+
+3e commit avant d'envoyer sur le cloud 
